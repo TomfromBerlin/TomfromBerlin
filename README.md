@@ -1,6 +1,12 @@
-### Hi there 👋
+
+![TomfromBerlins GitHub stats](https://github-readme-stats.vercel.app/api?username=TomfromBerlin&show_icons=true&theme=tokyonight&locale=de&hide_border=true&bg_color=000000&icon_color=031485)
+
+- ⚡ Fun fact: I am not a developer
 
 <!--
+![TomfromBerlins GitHub stats](https://github-readme-stats.vercel.app/api?username=TomfromBerlin&title_color=000000&text_color=00a6ff&show_icons=true&theme=tokyonight&locale=de&bg_color=45,ff0000,0000ff,00ff00,fffff0)
+### Hi there 👋
+
 **TomfromBerlin/TomfromBerlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
