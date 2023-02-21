@@ -1,4 +1,6 @@
 
+![](https://komarev.com/ghpvc/?username=TomfromBerlin&style=plastic)
+
 ![TomfromBerlins GitHub stats](https://github-readme-stats.vercel.app/api?username=TomfromBerlin&show_icons=true&theme=tokyonight&locale=de&hide_border=true&bg_color=000000&icon_color=031485)
 
 - ⚡ Fun fact: I am not a developer
