@@ -11,9 +11,10 @@
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TomfromBerlin&repo=Debian-Pihole-Unbound&show_icons=true&theme=tokyonight&locale=de&hide_border=true&bg_color=000000&icon_color=031485" />
 </a>
 
-<a href="https://github.com/TomfromBerlin/zsh-command-time">
+<a href="https://github.com/TomfromBerlin/zsh-cmd-time">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TomfromBerlin&repo=zsh-cmd-time&show_icons=true&theme=tokyonight&locale=de&hide_border=true&bg_color=000000&icon_color=031485" />
 </a>
+
 
 - ⚡ Fun fact: I am not a developer
 
