@@ -1,5 +1,5 @@
 <a href="https://github.com/TomfromBerlin">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TomfromBerlin&show_icons=true&theme=tokyonight&locale=de&hide_border=true&bg_color=000000&icon_color=031485" />
+  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TomfromBerlin&show_icons=true&theme=tokyonight&locale=de&hide_border=true&bg_color=000000&icon_color=031485" />
 </a>
 <p></p>
 
@@ -14,6 +14,8 @@
 <a href="https://github.com/TomfromBerlin/bashrc">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TomfromBerlin&repo=bashrc&show_icons=true&theme=tokyonight&locale=de&hide_border=true&bg_color=000000&icon_color=031485" />
 </a>
+
+<p></p>
 
 ![View Counter](https://komarev.com/ghpvc/?username=TomfromBerlin&style=plastic)
 
