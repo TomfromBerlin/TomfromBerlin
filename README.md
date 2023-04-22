@@ -19,6 +19,7 @@
 
 ![View Counter](https://komarev.com/ghpvc/?username=TomfromBerlin&style=plastic)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=TomfromBerlin&theme=onedark)](https://github.com/TomfromBerlin/github-profile-trophy)
 <!--
 ![TomfromBerlins GitHub stats](https://github-readme-stats.vercel.app/api?username=TomfromBerlin&title_color=000000&text_color=00a6ff&show_icons=true&theme=tokyonight&locale=de&bg_color=45,ff0000,0000ff,00ff00,fffff0)
 ### Hi there 👋
