@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TomfromBerlin&repo=zsh-cmd-time&show_icons=true&theme=tokyonight&locale=de&hide_border=true&bg_color=000000&icon_color=031485" />
 </a>
 
-<a href="https://github.com/TomfromBerlin/Debian-Pihole-Unbound">
+<a href="https://github.com/TomfromBerlin/Toms-Haushaltsbuch">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TomfromBerlin&repo=Toms-Haushaltsbuch&show_icons=true&theme=tokyonight&locale=de&hide_border=true&bg_color=000000&icon_color=031485" />
 </a>
 <br>
