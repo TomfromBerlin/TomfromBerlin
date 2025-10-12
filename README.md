@@ -1,10 +1,16 @@
+![View Counter](https://komarev.com/ghpvc/?username=TomfromBerlin&style=plastic&abbreviated=true&color=blue)
+<p></p>
 <a href="https://github.com/TomfromBerlin">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TomfromBerlin&show_icons=true&theme=tokyonight&locale=de&hide_border=true&bg_color=000000&icon_color=031485" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TomfromBerlin&show_icons=true&theme=tokyonight&locale=de&hide_border=false&bg_color=000000&icon_color=031485" />
 </a>
 <p></p>
 
 <a href="https://github.com/TomfromBerlin/zsh-cmd-time">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TomfromBerlin&repo=zsh-cmd-time&show_icons=true&theme=tokyonight&locale=de&hide_border=true&bg_color=000000&icon_color=031485" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TomfromBerlin&repo=zsh-cmd-time&show_icons=true&theme=tokyonight&locale=de&hide_border=false&bg_color=000000&icon_color=031485" />
+</a>
+
+<a href="https://github.com/TomfromBerlin/zsh-disk-guard">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TomfromBerlin&repo=zsh-disk-guard&show_icons=true&theme=tokyonight&locale=de&hide_border=true&bg_color=000000&icon_color=031485" />
 </a>
 
 <a href="https://github.com/TomfromBerlin/mothers-little-helpers">
@@ -18,11 +24,10 @@
 -->
 <p></p>
 
-![View Counter](https://komarev.com/ghpvc/?username=TomfromBerlin&style=plastic)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=TomfromBerlin&theme=tokyonights&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&no-bg=true)](https://github.com/TomfromBerlin/github-profile-trophy)
 
 <!--
+![TomfromBerlins GitHub stats](https://github-readme-stats.vercel.app/api?username=TomfromBerlin&show_icons=true&theme=tokyonight&locale=de&hide_border=false&bg_color=000000&icon_color=031485")
 ![TomfromBerlins GitHub stats](https://github-readme-stats.vercel.app/api?username=TomfromBerlin&title_color=000000&text_color=00a6ff&show_icons=true&theme=tokyonight&locale=de&bg_color=45,ff0000,0000ff,00ff00,fffff0)
 ### Hi there 👋
 
