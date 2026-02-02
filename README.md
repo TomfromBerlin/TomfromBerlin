@@ -13,6 +13,10 @@
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TomfromBerlin&repo=zsh-disk-guard&show_icons=true&theme=tokyonight&locale=de&hide_border=true&bg_color=000000&icon_color=031485" />
 </a>
 
+<a href="https://github.com/TomfromBerlin/zramdisk">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TomfromBerlin&repo=zramdisk&show_icons=true&theme=tokyonight&locale=de&hide_border=false&bg_color=000000&icon_color=031485" />
+</a>
+
 <a href="https://github.com/TomfromBerlin/mothers-little-helpers">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TomfromBerlin&repo=mothers-little-helpers&show_icons=true&theme=tokyonight&locale=de&hide_border=true&bg_color=000000&icon_color=031485" />
 </a>
