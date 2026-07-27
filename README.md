@@ -1,5 +1,8 @@
 ![View Counter](https://komarev.com/ghpvc/?username=TomfromBerlin&style=plastic&abbreviated=true&color=blue)
-<p></p>
+<p> </p>
+<p>
+  <h2> I moved my repos to codeberg.org for some reason. Find me at <a href=https://codeberg.org/rorschach2>Rorschach2</a> </h2>
+</p>
 <a href="https://github.com/TomfromBerlin">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TomfromBerlin&show_icons=true&theme=tokyonight&locale=de&hide_border=false&bg_color=000000&icon_color=031485" />
 </a>
